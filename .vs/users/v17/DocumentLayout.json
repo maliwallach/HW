@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\home work\\users\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|m:\\home work\\users\\users\\controllers\\attachmentontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|solutionrelative:users\\controllers\\attachmentontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|m:\\home work\\users\\users\\repositoreis\\attachmentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|solutionrelative:users\\repositoreis\\attachmentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|m:\\home work\\users\\users\\services\\attachmentsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|solutionrelative:users\\services\\attachmentsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|m:\\home work\\users\\users\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|solutionrelative:users\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|m:\\home work\\users\\users\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|solutionrelative:users\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|m:\\home work\\users\\users\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|solutionrelative:users\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|m:\\home work\\users\\users\\models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|solutionrelative:users\\models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|m:\\home work\\users\\users\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|solutionrelative:users\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|m:\\home work\\users\\users\\services\\iattachmentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|solutionrelative:users\\services\\iattachmentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|m:\\home work\\users\\users\\models\\userscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|solutionrelative:users\\models\\userscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|m:\\home work\\users\\users\\repositoreis\\iattachmentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|solutionrelative:users\\repositoreis\\iattachmentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|m:\\home work\\users\\users\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|solutionrelative:users\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "M:\\home work\\users\\users\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "users\\Controllers\\UsersController.cs",
+              "ToolTip": "M:\\home work\\users\\users\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "users\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T23:00:51.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "M:\\home work\\users\\users\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "users\\Controllers\\ProjectsController.cs",
+              "ToolTip": "M:\\home work\\users\\users\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "users\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T22:55:31.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "M:\\home work\\users\\users\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "users\\Controllers\\TasksController.cs",
+              "ToolTip": "M:\\home work\\users\\users\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "users\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T22:55:22.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "M:\\home work\\users\\users\\Program.cs",
+              "RelativeDocumentMoniker": "users\\Program.cs",
+              "ToolTip": "M:\\home work\\users\\users\\Program.cs",
+              "RelativeToolTip": "users\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T21:36:55.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Attachmentontroller.cs",
+              "DocumentMoniker": "M:\\home work\\users\\users\\Controllers\\Attachmentontroller.cs",
+              "RelativeDocumentMoniker": "users\\Controllers\\Attachmentontroller.cs",
+              "ToolTip": "M:\\home work\\users\\users\\Controllers\\Attachmentontroller.cs",
+              "RelativeToolTip": "users\\Controllers\\Attachmentontroller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T21:27:57.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AttachmentsServices.cs",
+              "DocumentMoniker": "M:\\home work\\users\\users\\Services\\AttachmentsServices.cs",
+              "RelativeDocumentMoniker": "users\\Services\\AttachmentsServices.cs",
+              "ToolTip": "M:\\home work\\users\\users\\Services\\AttachmentsServices.cs",
+              "RelativeToolTip": "users\\Services\\AttachmentsServices.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T21:22:26.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AttachmentsRepository.cs",
+              "DocumentMoniker": "M:\\home work\\users\\users\\Repositoreis\\AttachmentsRepository.cs",
+              "RelativeDocumentMoniker": "users\\Repositoreis\\AttachmentsRepository.cs",
+              "ToolTip": "M:\\home work\\users\\users\\Repositoreis\\AttachmentsRepository.cs",
+              "RelativeToolTip": "users\\Repositoreis\\AttachmentsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T20:32:58.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAttachmentsService.cs",
+              "DocumentMoniker": "M:\\home work\\users\\users\\Services\\IAttachmentsService.cs",
+              "RelativeDocumentMoniker": "users\\Services\\IAttachmentsService.cs",
+              "ToolTip": "M:\\home work\\users\\users\\Services\\IAttachmentsService.cs",
+              "RelativeToolTip": "users\\Services\\IAttachmentsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T21:40:21.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAttachmentsRepository.cs",
+              "DocumentMoniker": "M:\\home work\\users\\users\\Repositoreis\\IAttachmentsRepository.cs",
+              "RelativeDocumentMoniker": "users\\Repositoreis\\IAttachmentsRepository.cs",
+              "ToolTip": "M:\\home work\\users\\users\\Repositoreis\\IAttachmentsRepository.cs",
+              "RelativeToolTip": "users\\Repositoreis\\IAttachmentsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T21:38:48.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Attachment.cs",
+              "DocumentMoniker": "M:\\home work\\users\\users\\Models\\Attachment.cs",
+              "RelativeDocumentMoniker": "users\\Models\\Attachment.cs",
+              "ToolTip": "M:\\home work\\users\\users\\Models\\Attachment.cs",
+              "RelativeToolTip": "users\\Models\\Attachment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T21:30:16.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "M:\\home work\\users\\users\\appsettings.json",
+              "RelativeDocumentMoniker": "users\\appsettings.json",
+              "ToolTip": "M:\\home work\\users\\users\\appsettings.json",
+              "RelativeToolTip": "users\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-16T21:36:47.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersContext.cs",
+              "DocumentMoniker": "M:\\home work\\users\\users\\Models\\UsersContext.cs",
+              "RelativeDocumentMoniker": "users\\Models\\UsersContext.cs",
+              "ToolTip": "M:\\home work\\users\\users\\Models\\UsersContext.cs",
+              "RelativeToolTip": "users\\Models\\UsersContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T22:01:25.221Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
